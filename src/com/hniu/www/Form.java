@@ -7,6 +7,7 @@ public class Form {
            int q;
            int k;
            int kkkk;
+           int zzzz;
  
 		public String getuserName() {
 			return userName;
