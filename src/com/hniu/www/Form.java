@@ -4,6 +4,8 @@ public class Form {
     public String userName;
            String password;
            int id;
+           int q;
+           int k;
  
 		public String getuserName() {
 			return userName;
