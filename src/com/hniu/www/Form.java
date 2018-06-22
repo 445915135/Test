@@ -3,6 +3,7 @@ package com.hniu.www;
 public class Form {
     public String userName;
            String password;
+           int id;
  
 		public String getuserName() {
 			return userName;
